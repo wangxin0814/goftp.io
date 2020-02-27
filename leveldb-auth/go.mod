@@ -1,4 +1,4 @@
-module gitea.com/goftp/leveldb-auth
+module github.com/wangxin0814/goftp.io/leveldb-auth
 
 go 1.12
 

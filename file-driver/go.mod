@@ -1,4 +1,4 @@
-module gitea.com/goftp/file-driver
+module github.com/wangxin0814/goftp.io/file-driver
 
 go 1.12
 
